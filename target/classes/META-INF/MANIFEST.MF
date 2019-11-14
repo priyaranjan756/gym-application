@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Implementation-Title: egym
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: priyarsi
+Implementation-Vendor-Id: com.exercise
+Class-Path: spring-boot-starter-web-2.1.3.RELEASE.jar spring-boot-star
+ ter-2.0.3.RELEASE.jar spring-boot-2.0.3.RELEASE.jar spring-boot-autoc
+ onfigure-2.0.3.RELEASE.jar spring-boot-starter-logging-2.0.3.RELEASE.
+ jar logback-classic-1.2.3.jar logback-core-1.2.3.jar log4j-to-slf4j-2
+ .10.0.jar log4j-api-2.10.0.jar jul-to-slf4j-1.7.25.jar javax.annotati
+ on-api-1.3.2.jar spring-core-5.0.7.RELEASE.jar spring-jcl-5.0.7.RELEA
+ SE.jar snakeyaml-1.19.jar spring-boot-starter-json-2.0.3.RELEASE.jar 
+ jackson-databind-2.9.6.jar jackson-annotations-2.9.0.jar jackson-core
+ -2.9.6.jar jackson-datatype-jdk8-2.9.6.jar jackson-datatype-jsr310-2.
+ 9.6.jar jackson-module-parameter-names-2.9.6.jar spring-boot-starter-
+ tomcat-2.0.3.RELEASE.jar tomcat-embed-core-8.5.31.jar tomcat-embed-el
+ -8.5.31.jar tomcat-embed-websocket-8.5.31.jar hibernate-validator-6.0
+ .10.Final.jar validation-api-2.0.1.Final.jar jboss-logging-3.3.2.Fina
+ l.jar classmate-1.3.4.jar spring-web-5.0.7.RELEASE.jar spring-beans-5
+ .0.7.RELEASE.jar spring-webmvc-5.0.7.RELEASE.jar spring-aop-5.0.7.REL
+ EASE.jar spring-context-5.0.7.RELEASE.jar spring-expression-5.0.7.REL
+ EASE.jar commons-lang3-3.7.jar spring-boot-starter-data-jpa-2.1.1.REL
+ EASE.jar spring-boot-starter-aop-2.0.3.RELEASE.jar aspectjweaver-1.8.
+ 13.jar spring-boot-starter-jdbc-2.0.3.RELEASE.jar HikariCP-2.7.9.jar 
+ spring-jdbc-5.0.7.RELEASE.jar javax.transaction-api-1.2.jar jaxb-api-
+ 2.3.0.jar hibernate-core-5.2.17.Final.jar hibernate-jpa-2.1-api-1.0.2
+ .Final.jar javassist-3.22.0-GA.jar antlr-2.7.7.jar jandex-2.0.3.Final
+ .jar dom4j-1.6.1.jar hibernate-commons-annotations-5.0.1.Final.jar sp
+ ring-data-jpa-2.0.8.RELEASE.jar spring-data-commons-2.0.8.RELEASE.jar
+  spring-orm-5.0.7.RELEASE.jar spring-tx-5.0.7.RELEASE.jar slf4j-api-1
+ .7.25.jar spring-aspects-5.0.7.RELEASE.jar h2-1.4.199.jar
+Build-Jdk: 1.8.0_221
+Created-By: Maven Integration for Eclipse
+Main-Class: com.exercise.egym.Application
+
